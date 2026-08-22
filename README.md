@@ -40,6 +40,8 @@ building their first insights from scratch.
 
 ## How to Run
 ```bash
-pip install -r requirements.txt
-jupyter notebook
+## Data
+Download the dataset from:  
+https://archive.ics.uci.edu/dataset/502/online+retail+ii  
+Place the file in the `/data` folder before running notebooks.
 ```
