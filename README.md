@@ -24,9 +24,7 @@ building their first insights from scratch.
 
 | Phase | Notebook | Status |
 |---|---|---|
-| 1. Data Cleaning & Core Metrics | 01_data_cleaning.ipynb | Average Order Value: £479.95
-Avg orders per customer: 6.29
-Country
+| 1. Data Cleaning & Core Metrics | 01_data_cleaning.ipynb | 1. Average Order Value: £479.95 2. Avg orders per customer: 6.29 3.Country
 United Kingdom    1.472315e+07
 EIRE              6.216311e+05
 Netherlands       5.542323e+05
