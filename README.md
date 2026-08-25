@@ -32,6 +32,20 @@ building their first insights from scratch.
 ---
 
 ## Key Findings
+
+Average Order Value: £479.95
+Avg orders per customer: 6.29
+Country
+United Kingdom    1.472315e+07
+EIRE              6.216311e+05
+Netherlands       5.542323e+05
+Germany           4.312625e+05
+France            3.552575e+05
+Australia         1.699681e+05
+Spain             1.091785e+05
+Switzerland       1.003653e+05
+Sweden            9.154972e+04
+Denmark           6.986219e+04
 *(Updated as project progresses)*
 
 - 
