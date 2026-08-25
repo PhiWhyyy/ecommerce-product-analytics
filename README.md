@@ -36,6 +36,8 @@ building their first insights from scratch.
 |---|---|
 |Average Order Value | £479.95|
 |Avg orders per customer | 6.29|
+
+
 |Top Countries| Revenue |
 |---|---|
 |United Kingdom  |  1.472315e+07|
